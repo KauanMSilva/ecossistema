@@ -26,6 +26,7 @@ const animais = [
   new Animal("Lobo", "Canis lupus", 5, "Controle de populações de herbívoros", "Floresta", 10, "30-80 kg", "Herbívoros e ungulados"),
   new Animal("Golfinho", "Tursiops truncatus", 20, "Manutenção de ecossistemas marinhos", "Oceano", 40, "150-600 kg", "Peixes e crustáceos")
 ];
+// Relacionados dos animais
 
 function iniciarSimulacao() {
   const resultado = document.getElementById('resultado');
