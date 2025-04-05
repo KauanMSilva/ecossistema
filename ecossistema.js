@@ -1,5 +1,3 @@
-
-
 class Animal {
   constructor(nome, especie, idade, importancia, habitat, vidaMedia, pesoEstimado, alimentacao) {
     this.nome = nome;
